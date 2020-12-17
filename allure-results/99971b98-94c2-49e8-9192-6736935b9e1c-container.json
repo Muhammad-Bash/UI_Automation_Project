@@ -1,0 +1,1 @@
+{"uuid":"99971b98-94c2-49e8-9192-6736935b9e1c","name":"Konga_Automation_Project","children":["50ba285c-cdd1-49c3-8d37-5d77801832da"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1608193158120,"stop":1608193160024}],"links":[],"start":1608193108173,"stop":1608193160024}
